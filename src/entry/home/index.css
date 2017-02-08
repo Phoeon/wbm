@@ -1,0 +1,6 @@
+body{
+	color:red;
+}
+body:before{
+	content:"home";
+}
